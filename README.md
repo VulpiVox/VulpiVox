@@ -16,7 +16,7 @@
 
 ## Who We Are
 
-We are **VulpiVox Lab** — an open research community dedicated to turning real-world problems into collaborative, open-source solutions. Too many challenges stay hidden because the people who face them and the people who can solve them never connect. VulpiVox is the bridge between those who define the problem and those who design the solution.
+We are **VulpiVox Lab** — an open research community dedicated to solving the real-world problems that AI hasn't cracked yet. We bring fresh, efficient solutions to both old and new questions — rethinking what's possible with modern AI. Too many challenges stay hidden because the people who face them and the people who can solve them never connect. VulpiVox is the bridge between those who define the problem and those who design the solution.
 
 Our community brings together **researchers, industry professionals, students, and community partners** — anyone who wants to listen deeply, solve boldly, and build meaningfully.
 
@@ -24,9 +24,9 @@ Our community brings together **researchers, industry professionals, students, a
 
 ## What We Do
 
-We take pain points that AI and technology haven't solved yet and transform them into structured research projects with real impact:
+We find the gaps where AI should help but doesn't yet, and we build smarter, more efficient solutions — whether the question is brand new or decades old. We turn these challenges into structured AI research projects with real impact:
 
-- **Share** — Anyone can submit a challenge where AI should help but doesn't yet
+- **Share** — Anyone can submit a pain point where AI should help but doesn't yet
 - **Formalize** — Our team structures the best challenges into well-defined research proposals
 - **Collaborate** — We bring together researchers worldwide to build solutions as a team
 - **Ship** — Research published. Code open-sourced. Solutions given back to the community
@@ -39,7 +39,7 @@ Every project is measured by whether it actually solves the problem it set out t
 
 Because **the future of research should be practical, collaborative, and human-centered.**
 
-We believe that when great minds come together around problems that matter, the results can change the world. We exist to make sure no important problem goes unheard and no brilliant solution stays locked in a lab.
+We believe that when great minds come together around problems that matter, the results can change the world. We exist to make sure no important problem goes unheard, no brilliant solution stays locked in a lab, and every answer we build is more efficient and accessible than what came before.
 
 **Our values:**
 - **Foresight** — To see what others miss, and build what others cannot
