@@ -50,10 +50,18 @@ We believe that when great minds come together around problems that matter, the 
 
 <div align="center">
 
-### Be Part of It From Day One
+## Be Part of It From Day One
 
 We're launching soon. Whether you have a challenge to share or skills to contribute, reach out and be among the first.
 
-**[hello@vulpivox.com](mailto:hello@vulpivox.com)** | **[vulpivox.com](https://vulpivox.com)**
+- **Share a Problem** — Know a real-world challenge where AI should help but doesn't yet? Tell us
+- **Join as a Researcher** — Bring your skills to projects that matter
+- **Spread the Word** — Help us reach the people who need to be heard
+
+**Get in touch:**
+
+[![Email](https://img.shields.io/badge/Email-hello%40vulpivox.com-red?style=for-the-badge)](mailto:hello@vulpivox.com)
+[![Website](https://img.shields.io/badge/Website-vulpivox.com-orange?style=for-the-badge)](https://vulpivox.com)
+
 
 </div>
