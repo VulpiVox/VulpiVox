@@ -54,11 +54,11 @@ We believe that when great minds come together around problems that matter, the 
 
 We're launching soon. Whether you have a challenge to share or skills to contribute, reach out and be among the first.
 
-- **Share a Problem** — Know a real-world challenge where AI should help but doesn't yet? Tell us
-- **Join as a Researcher** — Bring your skills to projects that matter
-- **Spread the Word** — Help us reach the people who need to be heard
+<br>**Share a Problem** — Know a real-world challenge where AI should help but doesn't yet? Tell us
+<br>**Join as a Researcher** — Bring your skills to projects that matter
+<br>**Spread the Word** — Help us reach the people who need to be heard
 
-**Get in touch:**
+<br>
 
 [![Email](https://img.shields.io/badge/Email-hello%40vulpivox.com-red?style=for-the-badge)](mailto:hello@vulpivox.com)
 [![Website](https://img.shields.io/badge/Website-vulpivox.com-orange?style=for-the-badge)](https://vulpivox.com)
