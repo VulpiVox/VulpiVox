@@ -6,7 +6,7 @@
 
 *Where foresight meets voice — bridging the people who face real-world problems with the researchers who can solve them.*
 
-[![Website](https://img.shields.io/badge/Website-vulpivox.com-orange?style=for-the-badge)](https://vulpivox.com)
+[![Website](https://img.shields.io/badge/Website-vulpivox.com-orange?style=for-the-badge)](https://community.vulpivox.com)
 [![Email](https://img.shields.io/badge/Email-hello%40vulpivox.com-red?style=for-the-badge)](mailto:hello@vulpivox.com)
 [![Launch](https://img.shields.io/badge/Launching-April%202026-brightgreen?style=for-the-badge)]()
 
